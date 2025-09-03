@@ -1,4 +1,4 @@
-# 🎬 Movie Graph RAG
+# 🎬 Movie Graph RAG Agent
 
 Movie Graph RAG is an **agentic retrieval-augmented generation (RAG) system** that fuses a **knowledge graph** with **vector similarity search** to enable reasoning-driven queries in the movie domain.
 
