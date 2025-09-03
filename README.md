@@ -30,6 +30,7 @@ Movie Graph RAG adds **graph-based reasoning** so you can answer relationship-he
 ├── network_setup.py       # Graph construction with NetworkX
 └── README.md              # Documentation
 ```
+👉 [[KAGGLE DATA CSVs](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset)]
 
 ---
 
@@ -39,7 +40,6 @@ Movie Graph RAG adds **graph-based reasoning** so you can answer relationship-he
 ```bash
 git clone https://github.com/jayeshbankoti007/movie-graph-rag.git
 cd movie-graph-rag
-download https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
 ```
 
 ### 2. Install dependencies
@@ -82,7 +82,7 @@ I’ve recorded a **12-minute walkthrough** that explains:
 - How the pipeline is structured  
 - Live examples of reasoning across the movie graph  
 
-👉 [[Insert demo link here](https://www.youtube.com/watch?v=qF5DUKEQ8sw)]
+👉 [[Youtube link](https://www.youtube.com/watch?v=qF5DUKEQ8sw)]
 
 ---
 
