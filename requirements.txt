@@ -1,0 +1,14 @@
+smolagents>=0.7.0
+openai>=1.40.0
+python-dotenv
+networkx
+pydantic
+uvicorn
+fastapi
+pandas
+duckduckgo-search
+requests
+wikipedia
+faiss-cpu
+streamlit
+python-dotenv
